@@ -1,4 +1,5 @@
 # Python-For-Data-Science
+(udemy course)
 
 Law of Large Numbers - It is a mathematical concept. The average across the sample will converge to the expected value of the same measure when n increases to infinity.
 
