@@ -1,9 +1,12 @@
 # Python-For-Data-Science
 (udemy course)
 
-Law of Large Numbers - It is a mathematical concept. The average across the sample will converge to the expected value of the same measure when n increases to infinity.
+Law of Large Numbers:
+=====================
+It is a mathematical concept. The average across the sample will converge to the expected value of the same measure when n increases to infinity.
 
 Financial Statement Analysis:
+==============================
 You have been supplied with two lists of data: monthly revenue and monthly expenses for the financial year in question. Your task is to calculate the following
 financial metrics:
 - profit for each month
@@ -13,3 +16,10 @@ financial metrics:
 - bad months - where the profit after tax was less than the mean for the year
 - the best month - where the profit after tax was max for the year
 - the worst month - where the profit after tax was min for the year
+
+BasketBall Free Throws:
+=======================
+Created three plots that portray the following insights:
+• Free Throw Attempts per game
+• Accuracy of Free Throws
+• Player playing style (2 vs 3 points preference) excluding Free Throws
