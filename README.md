@@ -19,7 +19,7 @@ financial metrics:
 
 BasketBall Free Throws:
 =======================
-Created three plots that portray the following insights:
+Created three plots that portray the following insights-
 • Free Throw Attempts per game
 • Accuracy of Free Throws
 • Player playing style (2 vs 3 points preference) excluding Free Throws
