@@ -23,3 +23,8 @@ Created three plots that portray the following insights-
 • Free Throw Attempts per game
 • Accuracy of Free Throws
 • Player playing style (2 vs 3 points preference) excluding Free Throws
+
+World Trends:
+=============
+A scatterplot depicting Life Expectancy (y-axis) and Fertility Rate (x-axis) statistics by Country
+Data has been supplied for 2 years: 1960 and 2013 and you are required to produce a visualisation for each of these years
