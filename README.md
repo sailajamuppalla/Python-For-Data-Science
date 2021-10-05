@@ -26,5 +26,5 @@ Created three plots that portray the following insights-
 
 World Trends:
 =============
-A scatterplot depicting Life Expectancy (y-axis) and Fertility Rate (x-axis) statistics by Country
+A scatterplot depicting Life Expectancy (y-axis) and Fertility Rate (x-axis) statistics by Country. 
 Data has been supplied for 2 years: 1960 and 2013 and you are required to produce a visualisation for each of these years
