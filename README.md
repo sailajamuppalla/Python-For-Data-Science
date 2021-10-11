@@ -1,5 +1,5 @@
 # Python-For-Data-Science
-(udemy course)
+
 
 Law of Large Numbers:
 =====================
@@ -28,3 +28,8 @@ World Trends:
 =============
 A scatterplot depicting Life Expectancy (y-axis) and Fertility Rate (x-axis) statistics by Country. 
 Data has been supplied for 2 years: 1960 and 2013 and you are required to produce a visualisation for each of these years
+
+Movie % Domestic Gross:
+======================
+The task is to replicate a boxplot with Genre(x-axis) and Gross % US(y-axis) by Studio.
+The data has to be filtered before creating the visualization
